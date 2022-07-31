@@ -1,0 +1,4 @@
+typer
+psycopg2
+mysql-connector-python
+sqlite3
